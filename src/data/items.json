@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Suits",
+        "imgUrl": "https://m.media-amazon.com/images/I/71HGgigujnL._SL1500_.jpg",
+        "price": 49.95
+    },
+    {
+        "id": 2,
+        "name": "Narcos",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p11993088_b1t_v8_aa.jpg",
+        "price": 39
+    },
+    {
+        "id": 3,
+        "name": "Lucifer",
+        "imgUrl": "https://i.pinimg.com/originals/95/92/ad/9592ad6e018406ecffd67b15c044ed94.jpg",
+        "price": 29
+    },
+    {
+        "id": 4,
+        "name": "Dirilis Ertugrul",
+        "imgUrl": "https://i.tribune.com.pk/media/images/2223884-dirilis_ertugrul_ver_xlg-1589788075/2223884-dirilis_ertugrul_ver_xlg-1589788075.jpg",
+        "price": 44
+    },
+    {
+        "id": 5,
+        "name": "The Walking Dead",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p8282918_b_v13_bf.jpg",
+        "price": 32
+    },
+    {
+        "id": 6,
+        "name": "Peaky Blinders",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_FMjpg_UX1000_.jpg",
+        "price": 70
+    },
+    {
+        "id": 7,
+        "name": "The Good Doctor",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p17114293_b_v13_ac.jpg",
+        "price": 11
+    },
+    {
+        "id": 8,
+        "name": "Squid Game",
+        "imgUrl": "https://www.filmpolicereviews.com/wp-content/uploads/2021/09/ENUS_SQdGame_Main_Playground_Vertical_27x40_RGB_PRE-1170x1733.jpg",
+        "price": 38
+    },
+    {
+        "id": 9,
+        "name": "The Queen's Gambit",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
+        "price": 35
+    },
+    {
+        "id": 10,
+        "name": "Cobra Kai",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "price": 40
+    },
+    {
+        "id": 11,
+        "name": "House of Cards",
+        "imgUrl": "https://3.bp.blogspot.com/-AIAC7yyt2aI/WV5Yv_Tax5I/AAAAAAAABxw/cSNIqeiesSIR-NWhv3x_3zK2VG1v9dECACLcBGAs/s1600/netflix_hoc_mobile.jpg",
+        "price": 30
+    },
+    {
+        "id": 12,
+        "name": "Money Heist",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+        "price": 30
+    }
+]
